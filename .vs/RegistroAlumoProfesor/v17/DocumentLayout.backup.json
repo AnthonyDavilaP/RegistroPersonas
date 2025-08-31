@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adavi\\source\\repos\\RegistroAlumoProfesor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E61ECBEE-885B-458A-A393-F5DF82705F32}|RegistroAlumoProfesor\\RegistroAlumoProfesor.csproj|c:\\users\\adavi\\source\\repos\\registroalumoprofesor\\registroalumoprofesor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61ECBEE-885B-458A-A393-F5DF82705F32}|RegistroAlumoProfesor\\RegistroAlumoProfesor.csproj|solutionrelative:registroalumoprofesor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61ECBEE-885B-458A-A393-F5DF82705F32}|RegistroAlumoProfesor\\RegistroAlumoProfesor.csproj|C:\\Users\\adavi\\source\\repos\\RegistroAlumoProfesor\\registroalumoprofesor\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61ECBEE-885B-458A-A393-F5DF82705F32}|RegistroAlumoProfesor\\RegistroAlumoProfesor.csproj|solutionrelative:registroalumoprofesor\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61ECBEE-885B-458A-A393-F5DF82705F32}|RegistroAlumoProfesor\\RegistroAlumoProfesor.csproj|C:\\Users\\adavi\\source\\repos\\RegistroAlumoProfesor\\registroalumoprofesor\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61ECBEE-885B-458A-A393-F5DF82705F32}|RegistroAlumoProfesor\\RegistroAlumoProfesor.csproj|solutionrelative:registroalumoprofesor\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61ECBEE-885B-458A-A393-F5DF82705F32}|RegistroAlumoProfesor\\RegistroAlumoProfesor.csproj|C:\\Users\\adavi\\source\\repos\\RegistroAlumoProfesor\\registroalumoprofesor\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61ECBEE-885B-458A-A393-F5DF82705F32}|RegistroAlumoProfesor\\RegistroAlumoProfesor.csproj|solutionrelative:registroalumoprofesor\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61ECBEE-885B-458A-A393-F5DF82705F32}|RegistroAlumoProfesor\\RegistroAlumoProfesor.csproj|C:\\Users\\adavi\\source\\repos\\RegistroAlumoProfesor\\registroalumoprofesor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E61ECBEE-885B-458A-A393-F5DF82705F32}|RegistroAlumoProfesor\\RegistroAlumoProfesor.csproj|solutionrelative:registroalumoprofesor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\adavi\\source\\repos\\RegistroAlumoProfesor\\RegistroAlumoProfesor\\Form1.cs",
+              "RelativeDocumentMoniker": "RegistroAlumoProfesor\\Form1.cs",
+              "ToolTip": "C:\\Users\\adavi\\source\\repos\\RegistroAlumoProfesor\\RegistroAlumoProfesor\\Form1.cs*",
+              "RelativeToolTip": "RegistroAlumoProfesor\\Form1.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwEcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T00:58:27.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\adavi\\source\\repos\\RegistroAlumoProfesor\\RegistroAlumoProfesor\\Profesor.cs",
+              "RelativeDocumentMoniker": "RegistroAlumoProfesor\\Profesor.cs",
+              "ToolTip": "C:\\Users\\adavi\\source\\repos\\RegistroAlumoProfesor\\RegistroAlumoProfesor\\Profesor.cs",
+              "RelativeToolTip": "RegistroAlumoProfesor\\Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T00:32:59.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\adavi\\source\\repos\\RegistroAlumoProfesor\\RegistroAlumoProfesor\\Alumno.cs",
+              "RelativeDocumentMoniker": "RegistroAlumoProfesor\\Alumno.cs",
+              "ToolTip": "C:\\Users\\adavi\\source\\repos\\RegistroAlumoProfesor\\RegistroAlumoProfesor\\Alumno.cs",
+              "RelativeToolTip": "RegistroAlumoProfesor\\Alumno.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T00:32:51.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\adavi\\source\\repos\\RegistroAlumoProfesor\\RegistroAlumoProfesor\\Persona.cs",
+              "RelativeDocumentMoniker": "RegistroAlumoProfesor\\Persona.cs",
+              "ToolTip": "C:\\Users\\adavi\\source\\repos\\RegistroAlumoProfesor\\RegistroAlumoProfesor\\Persona.cs",
+              "RelativeToolTip": "RegistroAlumoProfesor\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T00:31:39.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\adavi\\source\\repos\\RegistroAlumoProfesor\\RegistroAlumoProfesor\\Form1.cs",
+              "RelativeDocumentMoniker": "RegistroAlumoProfesor\\Form1.cs",
+              "ToolTip": "C:\\Users\\adavi\\source\\repos\\RegistroAlumoProfesor\\RegistroAlumoProfesor\\Form1.cs [Design]*",
+              "RelativeToolTip": "RegistroAlumoProfesor\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T00:17:43.529Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

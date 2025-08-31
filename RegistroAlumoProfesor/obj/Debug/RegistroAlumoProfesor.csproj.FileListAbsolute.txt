@@ -1,0 +1,11 @@
+C:\Users\adavi\source\repos\RegistroAlumoProfesor\RegistroAlumoProfesor\bin\Debug\RegistroAlumoProfesor.exe.config
+C:\Users\adavi\source\repos\RegistroAlumoProfesor\RegistroAlumoProfesor\bin\Debug\RegistroAlumoProfesor.exe
+C:\Users\adavi\source\repos\RegistroAlumoProfesor\RegistroAlumoProfesor\bin\Debug\RegistroAlumoProfesor.pdb
+C:\Users\adavi\source\repos\RegistroAlumoProfesor\RegistroAlumoProfesor\obj\Debug\RegistroAlumoProfesor.csproj.AssemblyReference.cache
+C:\Users\adavi\source\repos\RegistroAlumoProfesor\RegistroAlumoProfesor\obj\Debug\RegistroAlumoProfesor.Form1.resources
+C:\Users\adavi\source\repos\RegistroAlumoProfesor\RegistroAlumoProfesor\obj\Debug\RegistroAlumoProfesor.Properties.Resources.resources
+C:\Users\adavi\source\repos\RegistroAlumoProfesor\RegistroAlumoProfesor\obj\Debug\RegistroAlumoProfesor.csproj.GenerateResource.cache
+C:\Users\adavi\source\repos\RegistroAlumoProfesor\RegistroAlumoProfesor\obj\Debug\RegistroAlumoProfesor.csproj.CoreCompileInputs.cache
+C:\Users\adavi\source\repos\RegistroAlumoProfesor\RegistroAlumoProfesor\obj\Debug\RegistroAlumoProfesor.exe
+C:\Users\adavi\source\repos\RegistroAlumoProfesor\RegistroAlumoProfesor\obj\Debug\RegistroAlumoProfesor.pdb
+C:\Users\adavi\source\repos\RegistroAlumoProfesor\RegistroAlumoProfesor\obj\Debug\RegistroAlumoProfesor.exe.config
